@@ -1,3 +1,8 @@
+TUGAS BESAR KECERDASAN BUATAN
+
+Prediksi Tingkat Stres Mahasiswa Selama Pembelajaran Daring Menggunakan Decision Tree
+
+
 Langkah Langkah Pengerjaan 
 
 1.	Menentukan Judul Proyek
